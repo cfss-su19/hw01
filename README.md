@@ -2,7 +2,7 @@
 
 # __Dominique Janvier__
 
-![*Headshot taken by my wonderful friend Amy Tian*](Users/Dominique/Downloads/DominiqueHeadshot.jpg)
+![*Headshot taken by my wonderful friend Amy Tian*](Downloads/DominiqueHeadshot.jpg)
 
 
 ## **About me**
@@ -16,6 +16,6 @@ Salut! My name is Dominique Janvier, and I am a third-year Public Policy major/F
 
 ## **Social Media**
 Twitter: https://twitter.com/niquejanvier  
-Facebook: https://www.facebook.com/profile.php?id=100006657015626 
+Facebook: https://www.facebook.com/profile.php?id=100006657015626   
 Linkedin: https://www.linkedin.com/in/dominiquejanvier/  
 

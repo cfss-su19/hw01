@@ -16,4 +16,4 @@ I did not find this assignment itself to be particularly difficult, as I had pre
 
 ### Conclusion
 I end with a picture of New York City at sunrise.
-![Taken near end of senior year.](sunrise.png)
+![Taken near end of senior year.](Sunrise.jpg)

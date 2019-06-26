@@ -14,6 +14,6 @@ Hi, I'm James Zimmerman! I'm a rising third year here at UChicago majoring in **
 ### Reflections  
 I did not find this assignment itself to be particularly difficult, as I had previous practice editing files in R Markdown. The tricky bit was learning to use GitHub to clone and then pull request the file. I hope this works!
 
-### Conclusion
+### Conclusion  
 I end with a picture of New York City at sunrise.
 ![Taken near end of senior year.](Sunrise.jpg)

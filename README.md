@@ -2,7 +2,7 @@
 
 ## __Dominique Janvier__
 
-![_Headshot taken by my wonderful friend Amy Tian_](https://github.com/djanvier/hw01/blob/master/DominiqueHeadshot.jpg)
+![Headshot taken by my wonderful friend Amy Tian](https://github.com/djanvier/hw01/blob/master/DominiqueHeadshot.jpg)
 
 
 ### **About me**

@@ -5,10 +5,7 @@
 1. *Name*: Winnie Tong
 2. *Occupation*: Ph.D. Student, Sociology
 3. *Hometown*: New York
-4. *Alma Maters*:
-  1. Yale
-  2. JHU
-  3. LSE
+4. *Alma Maters*: Yale, JHU, LSE
 5. *Side Hustle*: Fitness Ambassador, aSweatLife
 
 ### You can find more about me here!

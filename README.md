@@ -10,7 +10,7 @@ Additionally, I'm a barista for the Harper Café right outside the reading room 
 ### My Family
 I'm from the SF Bay Area (Menlo Park; it's right next to Stanford) and have a decent amount of family nearby. I live with my Mom, Dad, younger brother, and my maternal grandparents. My maternal uncle and his family just relocated from New Jersey to  15 minutes away from us, so we frequently get together for dinners, and other family events. Despite having so much family nearby, it's easy for me to choose a favorite family member: my dog. 
 
-![Me and my beautiful boy. Isn't portrait mode amazing. ](NeerajAndNalin.jpg){width=250px}
+![Me and my beautiful boy. Isn't portrait mode amazing.](NeerajAndNalin.jpg){width=250px}
 
 ## How I made this readme file
 I would say the hardest parts of this process were:
@@ -20,6 +20,6 @@ I would say the hardest parts of this process were:
 3. Making this ordered list
 
 
-The part I struggled most with was figuring out how to sizedown the photo of me and my dog. I was struggling to find a way to scale down using standard RMarkdown syntax; many online forms/guides recommended embedding R code in the document, but I personally wanted to stay away from that. [This](https://stackoverflow.com/questions/15625990/how-to-set-size-for-local-image-using-knitr-for-markdown) stackoverflow question helped me out. The third most recommended answer contains the RMarkdown syntax for sizing images, and is the solution I implimented in my code. 
+The part I struggled most with was figuring out how to sizedown the photo of me and my dog. I was struggling to find a way to scale down using standard RMarkdown syntax; many online forms/guides recommended embedding R code in the document, but I personally wanted to stay away from that. [This](https://stackoverflow.com/questions/15625990/how-to-set-size-for-local-image-using-knitr-for-markdown) stackoverflow question helped me out. The third most recommended answer contains the RMarkdown syntax for sizing images, and is the solution I implimented in my code. While it worked in the preview tab of RStudio, it didn't work when I moved to push to github for some reason. Thus, I had to look elsewhere for a solution, but unfortunately I wasn't able to impliment it successfully using R Code as I hoped for. 
 
 I pushed my code to github twice through this process. I pushed it once when I was roughly 10% finished with the About me section, just to make sure I had the right idea about how to use git and would be able to properly submit my project when it came time to do so. Secondly, I pushed my project after I finished it. This is the version you're looking at now! I'm not sure if I have the terminology completely down yet, but I think I'm approximately correct. 

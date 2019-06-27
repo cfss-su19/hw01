@@ -13,6 +13,12 @@ I'm from the SF Bay Area (Menlo Park; it's right next to Stanford) and have a de
 ![Me and my beautiful boy. Isn't portrait mode amazing. ](NeerajAndNalin.jpg){width=250px}
 
 ## How I made this readme file
+I would say the hardest parts of this process were:
+
+1. Figuring out how to resize my photo 
+2. Getting the link to work 
+3. Making this ordered list
+
 
 The part I struggled most with was figuring out how to sizedown the photo of me and my dog. I was struggling to find a way to scale down using standard RMarkdown syntax; many online forms/guides recommended embedding R code in the document, but I personally wanted to stay away from that. [This](https://stackoverflow.com/questions/15625990/how-to-set-size-for-local-image-using-knitr-for-markdown) stackoverflow question helped me out. The third most recommended answer contains the RMarkdown syntax for sizing images, and is the solution I implimented in my code. 
 
